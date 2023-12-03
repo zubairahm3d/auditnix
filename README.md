@@ -29,7 +29,7 @@ Available audits:
 For help, use:
 
 ```
-python auditnix.py -h
+python3 auditnix.py -h
 ```
 
 ## Installation
