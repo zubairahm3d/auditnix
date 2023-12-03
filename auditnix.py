@@ -65,7 +65,7 @@ def run_specific_audit(audit_name, *args):
 
 def display_help():
     print("Usage:")
-    print("python script_name.py [audit_name1 audit_name2 ...]")
+    print("python auditnix.py [audit_name1 audit_name2 ...]")
     print("Available audits: user, file, pass, process, log, network, updates, kernel, policy, malware, activity, system")
     print("Usage 'python auditnix.py -h' for help.")
     print("all: Run all available audits")
