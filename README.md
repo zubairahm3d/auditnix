@@ -36,7 +36,7 @@ python auditnix.py -h
 
 Clone the repository:
 ```
-git clone https://github.com/zedahmed/auditnix.git
+git clone https://github.com/zubairahm3d/auditnix.git
 ```
 
 Navigate to the Auditnix directory:
